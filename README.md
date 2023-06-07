@@ -1,2 +1,2 @@
-README from github.com
+README :from github.com
 
